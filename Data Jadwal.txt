@@ -1,0 +1,15 @@
+Masuk Jam 7.30
+
+Datang kurang dari 7.15 rajin
+Datang lebih dari 7.15 biasa aja
+Datang lebih dari 7.30 malas
+
+Istirahat Jam 9.45
+
+Kembali kurang dari jam 10.05 rajin
+Kembali lebih dari Jam 10.05 biasa aja
+Kembali lebih dari jam 10.10 malas
+
+
+
+Pulang Jam 11.30

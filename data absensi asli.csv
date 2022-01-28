@@ -1,0 +1,122 @@
+id,nama,tanggal,jam_masuk,jam_istirahat,jam_kembali,jam_pulang
+1,Segap,2021-09-11,34,43,15,32
+2,Imam Budiman,2021-09-11,33,42,10,32
+3,Riko Jaelani,2021-09-11,33,42,10,31
+4,M. Abdul Maulidin,2021-09-11,32,47,13,33
+5,Fauzie Ilham,2021-09-11,32,46,14,30
+6,Fadilah Dwi Putra,2021-09-11,31,45,10,30
+7,Luki Romadoni,2021-09-11,31,44,9,32
+8,Dika Cahyadi,2021-09-11,31,45,8,33
+9,Rifki Aditya,2021-09-11,30,46,5,32
+10,Aditya Agusto Putra,2021-09-11,26,45,11,34
+11,Wirda Ahmad Juliana,2021-09-11,25,48,9,30
+12,Jajang,2021-09-11,23,45,9,30
+13,M. Putra Regiana Sayidin,2021-09-11,23,45,13,30
+14,Wahidin,2021-09-11,23,45,11,31
+15,Sahrul Ramdani,2021-09-11,22,46,4,32
+16,Adi Nugraha,2021-09-11,21,46,6,35
+17,Ipan,2021-09-11,21,45,8,35
+18,Atip Adimin Mutaqin,2021-09-11,18,45,15,32
+19,Cecep Wildan,2021-09-11,15,46,14,31
+20,Asep Sapudin,2021-09-11,11,45,12,32
+21,Deri Eep Tayudin,2021-09-11,11,47,9,30
+22,Dede Elsya Santika,2021-09-11,10,46,7,30
+23,Novitasari,2021-09-11,9,44,9,30
+24,Siti Aminah,2021-09-11,8,46,6,32
+25,Gina Alensa,2021-09-11,8,46,8,35
+26,Ali Nurdin,2021-09-11,7,47,6,33
+27,Adi Nasrudin,2021-09-11,6,46,5,32
+28,Ica Rahmawati,2021-09-11,6,45,6,32
+29,Santi Setiawati,2021-09-11,5,45,7,30
+30,Alvi Nursabilah,2021-09-11,5,45,4,31
+31,Intan Nuraeni,2021-09-11,5,45,5,37
+32,Safitri Septia Sari,2021-09-11,4,45,4,35
+33,Fadilah Dwi Putra,2021-09-06,34,45,13,31
+34,Luki Romadoni,2021-09-06,34,45,12,37
+35,Riko Jaelani,2021-09-06,34,47,13,37
+36,Asep Sapudin,2021-09-06,34,46,4,32
+37,Rifki Aditya,2021-09-06,9,47,8,31
+38,Aditya Agusto Putra,2021-09-06,28,44,16,36
+39,Imam Budiman,2021-09-06,26,48,11,34
+40,Intan Nuraeni,2021-09-06,23,43,9,32
+41,Dede Elsya Santika,2021-09-06,22,42,10,36
+42,Atip Adimin Mutaqin,2021-09-06,21,43,9,30
+43,Ipan,2021-09-06,21,48,7,36
+44,M. Putra Regiana Sayidin,2021-09-06,20,41,14,31
+45,Wahidin,2021-09-06,19,43,12,36
+46,Deri Eep Tayudin,2021-09-06,19,44,13,35
+47,Jajang,2021-09-06,18,48,12,34
+48,Dika Cahyadi,2021-09-06,17,43,4,35
+49,Adi Nasrudin,2021-09-06,15,46,14,32
+50,Ali Nurdin,2021-09-06,14,43,12,34
+51,Alvi Nursabilah,2021-09-06,13,47,13,33
+52,Ica Rahmawati,2021-09-06,8,44,10,31
+53,Siti Aminah,2021-09-06,8,44,9,32
+54,Gina Alensa,2021-09-06,8,45,8,34
+55,Safitri Septia Sari,2021-09-06,8,42,8,30
+56,Santi Setiawati,2021-09-06,5,42,14,30
+57,Wirda Ahmad Juliana,2021-09-06,4,42,8,30
+58,Wirda Ahmad Juliana,2021-09-03,37,45,13,32
+59,Aditya Agusto Putra,2021-09-03,37,45,17,32
+60,Imam Budiman,2021-09-03,36,45,15,32
+61,M. Abdul Maulidin,2021-09-03,36,45,14,32
+62,Fauzie Ilham,2021-09-03,34,45,15,32
+63,Rifki Aditya,2021-09-03,34,48,12,31
+64,Asep Sapudin,2021-09-03,34,46,12,30
+65,Riko Jaelani,2021-09-03,33,47,12,30
+66,Fadilah Dwi Putra,2021-09-03,19,46,5,32
+67,Luki Romadoni,2021-09-03,29,45,9,30
+68,Segap,2021-09-03,29,46,5,36
+69,Cecep Wildan,2021-09-03,28,49,3,35
+70,Atip Adimin Mutaqin,2021-09-03,26,48,8,32
+71,Wahidin,2021-09-03,25,45,9,35
+72,Dika Cahyadi,2021-09-03,23,45,7,30
+73,Sahrul Ramdani,2021-09-03,22,47,6,30
+74,Jajang,2021-09-03,19,45,3,30
+75,Ipan,2021-09-03,19,49,10,32
+76,M. Putra Regiana Sayidin,2021-09-03,17,48,8,36
+77,Deri Eep Tayudin,2021-09-03,17,48,3,35
+78,Dede Elsya Santika,2021-09-03,12,45,5,30
+79,Safitri Septia Sari,2021-09-03,10,47,4,36
+80,Intan Nuraeni,2021-09-03,9,46,0,31
+81,Novitasari,2021-09-03,8,45,1,32
+82,Siti Aminah,2021-09-03,8,48,8,31
+83,Ali Nurdin,2021-09-03,7,49,7,34
+84,Ica Rahmawati,2021-09-03,6,46,6,32
+85,Adi Nasrudin,2021-09-03,6,47,1,34
+86,Alvi Nursabilah,2021-09-03,6,45,4,30
+87,Santi Setiawati,2021-09-03,5,46,2,35
+88,Adi Nugraha,2021-09-03,5,45,2,33
+89,Gina Alensa,2021-09-03,2,45,3,35
+90,Wirda Ahmad Juliana,2021-09-02,34,45,10,32
+91,Segap,2021-09-02,33,45,11,30
+92,Aditya Agusto Putra,2021-09-02,33,45,12,38
+93,Imam Budiman,2021-09-02,33,47,11,32
+94,M. Abdul Maulidin,2021-09-02,33,46,13,37
+95,Fauzie Ilham,2021-09-02,32,47,15,34
+96,Rifki Aditya,2021-09-02,32,49,9,33
+97,Asep Sapudin,2021-09-02,32,45,13,34
+98,Riko Jaelani,2021-09-02,29,48,13,36
+99,Fadilah Dwi Putra,2021-09-02,28,47,10,31
+100,Luki Romadoni,2021-09-02,27,48,7,34
+101,M. Putra Regiana Sayidin,2021-09-02,27,46,7,36
+102,Ipan,2021-09-02,27,45,7,35
+103,Jajang,2021-09-02,25,47,11,35
+104,Sahrul Ramdani,2021-09-02,25,46,8,32
+105,Wahidin,2021-09-02,24,48,10,33
+106,Dika Cahyadi,2021-09-02,23,45,9,30
+107,Atip Adimin Mutaqin,2021-09-02,22,47,6,36
+108,Cecep Wildan,2021-09-02,19,46,5,30
+109,Deri Eep Tayudin,2021-09-02,19,45,5,33
+110,Dede Elsya Santika,2021-09-02,12,47,3,32
+111,Adi Nugraha,2021-09-02,12,46,4,32
+112,Ali Nurdin,2021-09-02,10,46,3,34
+113,Ica Rahmawati,2021-09-02,9,45,2,35
+114,Siti Aminah,2021-09-02,8,46,3,30
+115,Novitasari,2021-09-02,8,48,4,30
+116,Intan Nuraeni,2021-09-02,7,45,1,34
+117,Safitri Septia Sari,2021-09-02,6,46,3,31
+118,Alvi Nursabilah,2021-09-02,4,45,1,32
+119,Adi Nasrudin,2021-09-02,4,45,4,30
+120,Gina Alensa,2021-09-02,3,47,3,30
+121,Santi Setiawati,2021-09-02,2,46,3,33
